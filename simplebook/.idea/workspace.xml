@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="simplebook_war22" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d907fc12-bd65-4b32-906e-54b84c44e670" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="226" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="frameworksView" value="false" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aiVd3wfi6X5VvPF0myHFwe6dLS" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/simplebook" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32413793" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tools\simplebook\web\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.501">
+    <configuration name="EncryptionUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwh.www.until.EncryptionUtil" />
+      <module name="simplebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwh.www.until.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.501" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.501" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="simplebook_war22">
+          <settings>
+            <option name="CONTEXT_PATH" value="/simplebook_war22" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_simplebook_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55379" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="simplebook_war22" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EncryptionUtil" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.501" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EncryptionUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d907fc12-bd65-4b32-906e-54b84c44e670" name="Default Changelist" comment="" />
+      <created>1587218484022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587218484022</updated>
+      <workItem from="1587218487940" duration="6940000" />
+      <workItem from="1587258328650" duration="44786000" />
+      <workItem from="1587343745020" duration="10731000" />
+      <workItem from="1587363949393" duration="24654000" />
+      <workItem from="1587433315624" duration="6384000" />
+      <workItem from="1587443899863" duration="246000" />
+      <workItem from="1587444207239" duration="20593000" />
+      <workItem from="1587476419570" duration="5833000" />
+      <workItem from="1587516648682" duration="849000" />
+      <workItem from="1587518397502" duration="7401000" />
+      <workItem from="1587527512948" duration="4508000" />
+      <workItem from="1587533896905" duration="25372000" />
+      <workItem from="1587602806825" duration="6373000" />
+      <workItem from="1587621558302" duration="3697000" />
+      <workItem from="1587629286239" duration="1071000" />
+      <workItem from="1587638385122" duration="18508000" />
+      <workItem from="1587687973961" duration="7591000" />
+      <workItem from="1587699023417" duration="2572000" />
+      <workItem from="1587701612460" duration="13023000" />
+      <workItem from="1587719232540" duration="7972000" />
+      <workItem from="1587730222170" duration="10787000" />
+      <workItem from="1587793517672" duration="2578000" />
+      <workItem from="1587805875574" duration="3841000" />
+      <workItem from="1587874303656" duration="1515000" />
+      <workItem from="1587882332686" duration="1489000" />
+      <workItem from="1587997401130" duration="2891000" />
+      <workItem from="1588035231793" duration="4125000" />
+      <workItem from="1588057569965" duration="2585000" />
+      <workItem from="1588126319866" duration="27902000" />
+      <workItem from="1588209865608" duration="4752000" />
+      <workItem from="1588241022383" duration="185000" />
+      <workItem from="1588293689862" duration="2218000" />
+      <workItem from="1588303730862" duration="15362000" />
+      <workItem from="1588319912148" duration="4288000" />
+      <workItem from="1588330102320" duration="2888000" />
+      <workItem from="1588342959554" duration="636000" />
+      <workItem from="1588383420508" duration="495000" />
+      <workItem from="1588395449678" duration="8542000" />
+      <workItem from="1588429512919" duration="1848000" />
+      <workItem from="1588471329970" duration="6037000" />
+      <workItem from="1588485201382" duration="23468000" />
+      <workItem from="1588519182950" duration="2423000" />
+      <workItem from="1588550938351" duration="94000" />
+      <workItem from="1588567108298" duration="9225000" />
+      <workItem from="1588586872725" duration="7667000" />
+      <workItem from="1588644532537" duration="4674000" />
+      <workItem from="1588657013571" duration="12987000" />
+      <workItem from="1588677233816" duration="3807000" />
+      <workItem from="1588683543128" duration="114000" />
+      <workItem from="1588728103582" duration="4685000" />
+      <workItem from="1588747358327" duration="185000" />
+      <workItem from="1588755258465" duration="9937000" />
+      <workItem from="1588766707961" duration="321000" />
+      <workItem from="1588774018972" duration="5341000" />
+      <workItem from="1588814082536" duration="8102000" />
+      <workItem from="1588832277680" duration="15220000" />
+      <workItem from="1588857907364" duration="52000" />
+      <workItem from="1588858245489" duration="225000" />
+      <workItem from="1588860488370" duration="68000" />
+      <workItem from="1588862189527" duration="1982000" />
+      <workItem from="1588898533219" duration="36347000" />
+      <workItem from="1588939149031" duration="2867000" />
+      <workItem from="1588987123981" duration="5090000" />
+      <workItem from="1589003270888" duration="1908000" />
+      <workItem from="1589015590835" duration="15695000" />
+      <workItem from="1589076048558" duration="138000" />
+      <workItem from="1589108040780" duration="4678000" />
+      <workItem from="1589183322963" duration="1239000" />
+      <workItem from="1589248158827" duration="600000" />
+      <workItem from="1589270908150" duration="5033000" />
+      <workItem from="1589278258509" duration="14157000" />
+      <workItem from="1589328685816" duration="36480000" />
+      <workItem from="1589380819333" duration="2467000" />
+      <workItem from="1589421694875" duration="5679000" />
+      <workItem from="1589436600295" duration="14449000" />
+      <workItem from="1589465895626" duration="3858000" />
+      <workItem from="1589502093284" duration="138000" />
+      <workItem from="1589532371850" duration="9310000" />
+      <workItem from="1589545379706" duration="592000" />
+      <workItem from="1589630814975" duration="628000" />
+      <workItem from="1589635153053" duration="2771000" />
+      <workItem from="1589641678524" duration="2892000" />
+      <workItem from="1589676197261" duration="3685000" />
+      <workItem from="1589682770129" duration="877000" />
+      <workItem from="1589689681534" duration="23123000" />
+      <workItem from="1589725420585" duration="1779000" />
+      <workItem from="1589762436924" duration="5295000" />
+      <workItem from="1589782881130" duration="975000" />
+      <workItem from="1589784085295" duration="5329000" />
+      <workItem from="1589799011587" duration="11468000" />
+      <workItem from="1589854084258" duration="815000" />
+      <workItem from="1589865466140" duration="1100000" />
+      <workItem from="1589866581830" duration="3070000" />
+      <workItem from="1589869676649" duration="672000" />
+      <workItem from="1589870363637" duration="263000" />
+      <workItem from="1589870641985" duration="1055000" />
+      <workItem from="1589871855383" duration="95000" />
+      <workItem from="1589872001842" duration="344000" />
+      <workItem from="1589872359980" duration="1365000" />
+      <workItem from="1589875919000" duration="55000" />
+      <workItem from="1589875999024" duration="15000" />
+      <workItem from="1589876613124" duration="77000" />
+      <workItem from="1589877356086" duration="283000" />
+      <workItem from="1589877740629" duration="1488000" />
+      <workItem from="1589879249484" duration="10000" />
+      <workItem from="1589879573499" duration="277000" />
+      <workItem from="1589880086178" duration="954000" />
+      <workItem from="1589881147713" duration="25000" />
+      <workItem from="1589881893166" duration="6115000" />
+      <workItem from="1589888103189" duration="4728000" />
+      <workItem from="1589940721669" duration="8569000" />
+      <workItem from="1589954138599" duration="15327000" />
+      <workItem from="1589984128840" duration="889000" />
+      <workItem from="1590026086074" duration="2526000" />
+      <workItem from="1590046074726" duration="7073000" />
+      <workItem from="1590108844074" duration="2589000" />
+      <workItem from="1590128260940" duration="3771000" />
+      <workItem from="1590132061769" duration="260000" />
+      <workItem from="1590235929376" duration="2218000" />
+      <workItem from="1590284524540" duration="1802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hwh/www/po/Follow.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/simplebook$Tomcat_8_5_501.ic" NAME="Tomcat 8.5.501 Coverage Results" MODIFIED="1589971513618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

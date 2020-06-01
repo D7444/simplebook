@@ -1,0 +1,16 @@
+.btn1{
+    margin-top: 5px;
+    height:40px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+}
+.btn2{
+    margin-top: 7px;
+    height:35px;
+    width: 80px;
+    border-radius: 20px;
+    border: 1px solid orangered;
+    color: orangered;
+    background-color: whitesmoke;
+}

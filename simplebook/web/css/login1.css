@@ -1,0 +1,135 @@
+* {
+    /*填充*/
+    padding: 0;
+    /*距离*/
+    margin: 0;
+    font-family: "微软雅黑";
+    /*字母间距
+    .05em,根据字体的实际隔开大小
+    */
+    letter-spacing: .05em;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: rgba(245,245,245,1);
+}
+
+.container {
+    height: 100%;
+}
+
+.login-warpper {
+    background: white;
+    width: 300px;
+    height: 530px;
+    /*圆角边框*/
+    border-radius: 15px;
+    /*填充，(上下)(左右)*/
+    padding:0px 50px;
+    /*生成相对定位的元素*/
+    position: relative;
+    left:50%;
+    top:30%;
+    transform: translate(-50%,-50%);
+}
+
+.login-warpper .header {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    /*行间距*/
+    line-height: 130px;
+    color: #244c8b;
+}
+
+.login-warpper .error{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+
+.login-warpper .header a{
+    color: gray;
+    text-decoration-line: none;
+}
+
+.login-warpper .header a:hover{
+    text-decoration-line: underline;
+}
+
+.login-warpper .form-warpper .input-item{
+    background: rgba(255, 255, 255, 0);
+    /*元素前后带有换行符*/
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    border:0;
+    padding: 10px;
+    border-bottom:2px solid gray;
+    font-size: 18px;
+    /*去掉点击后的边框*/
+    outline: none;
+}
+
+.login-warpper .form-warpper .btn1{
+    height: 30px;
+    text-align: center;
+    cursor:pointer;
+    border-radius: 5px;
+    border: none;
+    background-color: #6f86d6;
+    text-decoration-line: none;
+    color: white;
+}
+
+.login-warpper .form-warpper .btn{
+    font-size: 20px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    /*手指图标*/
+    cursor: pointer;
+    background-color: #6f86d6;
+    color: white;
+}
+
+.login-warpper .form-warpper .btn:hover{
+    background-image: linear-gradient(to right,#48c6ef,#6f86d6);
+}
+
+.login-warpper .register{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-warpper .register a{
+    text-decoration-line: none;
+    color: gray;
+}
+
+.login-warpper .register a:hover{
+    color:#a1c4fd;
+}
+
+.login-warpper .form-warpper .abtn{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.login-warpper .form-warpper .abtn a{
+    color: gray;
+    text-decoration-line: none;
+    cursor: pointer;
+}
+
+.login-warpper .form-warpper .abtn a:hover{
+    color:black ;
+}
